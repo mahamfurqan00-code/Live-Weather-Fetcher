@@ -14,7 +14,7 @@
     <text x="28" y="172">Wind speed: 11 km/h</text>
     <text x="28" y="202">Conditions: Partly cloudy</text>
   </g>
-  <text x="28" y="239" fill="#ffb4a2" font-family="Consolas, monospace" font-size="16">⚠️ Bohot garmi hai!</text>
+  <text x="28" y="239" fill="#ffb4a2" font-family="Consolas, monospace" font-size="16">⚠️ It's hot today!</text>
   <path d="M28 260h704" stroke="#3a4a58"/>
   <text x="28" y="292" fill="#a8d5ff" font-family="Consolas, monospace" font-size="16">Lahore is warmer: 38°C (compared with 31°C).</text>
 </svg>
