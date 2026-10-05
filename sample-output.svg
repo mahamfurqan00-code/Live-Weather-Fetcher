@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" role="img" aria-labelledby="title description">
+  <title id="title">Live Weather Fetcher sample output</title>
+  <desc id="description">Example terminal output showing weather, wind speed, a heat warning, and a city comparison.</desc>
+  <rect width="760" height="350" rx="12" fill="#101820"/>
+  <path d="M0 12a12 12 0 0 1 12-12h736a12 12 0 0 1 12 12v34H0z" fill="#263746"/>
+  <circle cx="25" cy="23" r="6" fill="#ff6b6b"/>
+  <circle cx="46" cy="23" r="6" fill="#ffd166"/>
+  <circle cx="67" cy="23" r="6" fill="#06d6a0"/>
+  <text x="94" y="28" fill="#d8e2eb" font-family="Consolas, monospace" font-size="14">weather output — illustrative sample</text>
+  <g fill="#e7edf3" font-family="Consolas, monospace" font-size="16">
+    <text x="28" y="82">📍 Lahore weather:</text>
+    <text x="28" y="112">Temperature: 38°C (feels like: 40°C)</text>
+    <text x="28" y="142">Humidity: 42%</text>
+    <text x="28" y="172">Wind speed: 11 km/h</text>
+    <text x="28" y="202">Conditions: Partly cloudy</text>
+  </g>
+  <text x="28" y="239" fill="#ffb4a2" font-family="Consolas, monospace" font-size="16">⚠️ Bohot garmi hai!</text>
+  <path d="M28 260h704" stroke="#3a4a58"/>
+  <text x="28" y="292" fill="#a8d5ff" font-family="Consolas, monospace" font-size="16">Lahore is warmer: 38°C (compared with 31°C).</text>
+</svg>
